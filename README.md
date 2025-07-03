@@ -1,20 +1,23 @@
-To Do List https://to-do-list-ie7h.onrender.com
+# To Do List  https://to-do-list-ie7h.onrender.com
+
 Aplicação web simples para gerenciar tarefas diárias. Permite adicionar, marcar como concluída e remover tarefas.
 
-Funcionalidades
-Adicionar novas tarefas
+## Funcionalidades
 
-Marcar tarefas como concluídas
+- Adicionar novas tarefas
+- Marcar tarefas como concluídas
+- Remover tarefas concluídas ou pendentes
+- Interface intuitiva e responsiva
 
-Remover tarefas concluídas ou pendentes
+## Tecnologias utilizadas
 
-Interface intuitiva e responsiva
+- React.js
+- CSS
+- JavaScript
 
-Tecnologias utilizadas
-React.js
+## Como rodar o projeto
 
-CSS
+1. Clone o repositório:
+```bash
+git clone https://github.com/Alineferk/to-do-list.git
 
-JavaScript
-
-Como rodar o projeto
